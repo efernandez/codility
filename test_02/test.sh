@@ -8,5 +8,6 @@
 # cd ..
 
 # Default test:
-echo "-1 3 -4 5 1 -6 2 1" | build/equi
+echo "8 24 3 20 1 17" | build/test_02
+echo "7 21 3 42 3 7" | build/test_02
 
